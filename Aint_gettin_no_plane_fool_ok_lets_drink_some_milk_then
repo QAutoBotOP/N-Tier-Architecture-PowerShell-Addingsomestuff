@@ -1,3 +1,4 @@
+#####BEWARE YEE WHO TRYETH THIS. IT DOESN'T WORK.... YET....!############
 #Resource Group
 $locationName = "westcentralus"
 $resourceGroupName = "CoffeeVirtual"
